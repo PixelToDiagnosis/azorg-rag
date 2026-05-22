@@ -1,0 +1,229 @@
+Versie 30/7/2025,
+"Door: Pieter-Jozef Huyskens, William Simoens, Maxim Behaeghe, Olivier Bladt, Victor Demaerel en Mathieu Van Der Meersch",
+,
+Protocol + indicaties,Sequenties
+,
+,
+Screening,2D FLAIR
+"Indicaties: screening, hoofdpijn, dementie, vermoeden demyelinisatie, gealtereerd bewustzijn, psychiatrische problematiek, hydrocefalie",Ax T2
+,Ax DWI
+,3D T1
+,Ax T2*
+,
+Parkinson,2D FLAIR
+Indicaties: vermoeden PD,Ax T2
+,Ax DWI
+,3D T1
+,Ax T2*
+,Evt. SWAN nigrosome (indien op Hero gescand)
+,
+Stroke,Ax FLAIR
+Indicatie: stroke <10d van TIA/CVA,Ax DWI
+,Ax GRE T2*
+,Ax T2
+,
+Epilepsie-screening,Coronale TSE T2
+Indicatie: Epilepsie / convulsies,Axiale GRE T2*
+,3D FLAIR
+,Axiale DWI
+,3D T1 BRAVO
+Meningeoom,
+Indicaties: follow-up meningeoom,Contrast
+,Ax FLAIR
+,3D T1 + Gd
+,
+Encefalitis-meningitis,
+,Axiale T1
+,Axiale T2
+,Axiale DWI 
+,Ax T2*
+,3D T1+c
+,Ax T2 FLAIR +C
+,
+Vasculitis,Ax T2 FLAIR FS snel
+,Ax T2 PROP
+,Ax DWI
+,3D T1 snel
+,Ax T2*
+,3D Ax MSDE VesselView +C
+,
+Tumorprotocol,Axiale TSE T2
+Indicaties: oppuntstelling tumorale hersenpathologie / follow-up primaire hersentumor,Axiale GRE T2*
+,Ax FLAIR
+,Axiale DWI
+,Axiale TSE T1
+,Axiale 3D T1 + Gd
+,Evt. Perfusie (oppuntstelling hersentumor; FU gliale tumor type glioblastoom)
+,
+Metastasen,Contrast
+Indicaties: follow-up hersenmetastasen,Ax FLAIR + C
+,Ax DWI
+,3D T1 
+,3D T1 +C
+,
+,
+Hersenbloeding-vasculaire malformatie,Axiale TSE T2
+Indicaties: oppuntstelling intracraniële bloeding / vasculaire malformatie ,Axiale TSE FLAIR 
+,Axiale DWI
+,Axiale GRE T2*
+,3D T1
+,3D T1 + Gd
+,3D TOF (op niveau van relevante regio)
+,
+Schedel radiotherapie,Sag T2 CUBE FLAIR snel
+,Ax MR-rage +C (strikt
+,Evt. (indien AVM): TOF voor en na contrast
+,
+Aneurysma opvolging / post coiling,Ax TSE T2
+,Axiale DWI
+,Axiale GRE T2*
+,Axiale 3D TOF
+,Evt. Axiale 3D TOF + Gd (behandeld)
+,
+Veneuze sinustrombose,Axiale TSE FLAIR FS
+,Axiale DWI
+,Axiale GRE T2*
+,Cor T2
+,3D T1 +C
+,
+,
+Angio carotiden,Velocity 
+,
+,
+,
+Dissectie halsvaten,CUBE T1 FatSat
+,Axiale DWI hersenen
+,Axiale TSE FLAIR FS hersenen
+,
+Post-trauma,Coronale TSE T2
+,Axiale 2D FLAIR
+,Axiale DWI
+,3D T1 FSPGR
+,Ax T2*
+,
+MS ,Sagittale 3D FLAIR
+"Indicaties: uitsluiten demyelinisatie / MS, FU MS",Axiale DWI
+,Evt. Ax 3D SWAN (bij oppuntstelling)
+,Evt. 3D T1 + Gd (op vraag neuroloog bij FU; bij navraag radioloog bij oppuntstelling)
+,Evt. Coronale T2 STIR door orbitae (bij vermelding neuritis optica / visuele klachten)
+,
+Pediatrie ,Ax DWI b1000
+,3D Ax SWAN
+,Ax T2 PROP
+,<1jaar: 3D Ax T1 BRAVO
+,>1jaar: 3D Ax T1 BRAVO
+,>3jaar: Sag CUBE FLAIR
+Fossa posterior,
+"Indicaties: brughoektumor, perceptiedoofheid,  pre cochleair implant, facialisparalyse, labyrinthitis, perifere vertigo, trigeminus neuralgie, hemifaciale spasmen",Axiale T2 CUBE brughoek
+,Axiale DWI
+,3D FSPGR T1 + Gd
+,Ax FLAIR 
+,
+Sella,Cor CUBE T1 
+"Indicaties: hyperprolactinemie of gelijkaardige hormonale afwijkingen, oppuntstelling (supra-para)sellaire massa",Cor T2
+,Contrast (1/2 gadolinium)
+,Cor CUBE T1 FS +C
+,
+Visuele stoornissen,Coronale T2 STIR PROP (orbitae)
+,Ax T2 
+,Axiale TSE FLAIR 
+,Axiale DWI
+,3D T1 
+,
+,
+Diplopie,Ax T2 FLAIR
+"Indicaties: evaluatie sinus cavernosus, diplopie",Ax DWI b1500
+,Ax T2 (hersenen)
+,Coronale T2 STIR PROP (orbitae)
+,3D T1 +C
+,Evt. 3D TOF (indien vraag naar aneurysma)
+,
+Sinus ,Cor T2 FLEX
+Indicaties: sinustumoren ,Cor en ax T1 
+,Cor en ax T1 FLEX +C
+,Evt. 3D Lava T1 Flex +C (indien vermoeden PNTS)
+,
+Orbita,Cor STIR PROPELLER
+Indicaties: orbitatumoren,Cor en ax T1 
+,Cor T1 FS CUBE +C
+,Evt. 3D Lava T1 Flex +C (indien vermoeden PNTS)
+,
+Hals standaard,Ax T2 FLEX 
+"Indicaties: tumoren mondholte, farynx, larynx",Ax T1 
+"- Nasofarynx: suprasellair tot infrahyoidaal
+- Larynx/hypofarynx: palatum molle tot C7 
+- Orofarynx, mond, pharynx: voorste schedelgroeve tot infrahyoidaal",3D Lava T1 Flex +C
+,Evt. DWI
+,
+,
+TMJ,Cor T2 FLEX coronaal “closed mouth” 
+,PD FS parasagittaal bilateraal “closed mouth” + “open mouth”
+,
+N. Olfactorius - reukproblemen,Cor 3D T1 FA
+,Cor CUBE T2
+,
+Plexus brachialis,Cor CUBE T2
+,Cor CUBE T1
+,Cor STIR +C
+,
+Plexus lumbosacralis,Mensa Nerveview
+,
+Cholesteatoom,Axiale T2 CUBE brughoek
+,Ax en cor non epi DWI
+,
+MRA aangezicht – faciaal,3D TOF MOTSA
+Indicatie: enkel op specifieke vraag,
+,
+Menière / endoymfatische hydrops ,Gd dubbele dosis; 4u wachten
+,Ax T2 CUBE brughoek
+,CUBE FLAIR posterior fossa
+,
+Routine wervelzuil,Sagittale TSE T2
+,Sag STIR (sagittale T2 FLEX in plaats van T2 + STIR op Voyager)
+,Sagittale T1
+,Ax CUBE T2 (CWZ) / Ax T2 (LWZ)
+,Evt. ax T1 en ax T1 FS +C (indien <10j postop en geen osteosynthesemateriaal)
+,
+Ruggenmerg - Demyelinisatie / MS,Sagittale TSE T2 (tot op niveau L1)
+Enkel bij demyelinisatie / transverse myelitis / MS!!!,Sagittale STIR (tot op niveau L1)
+,Axiale 2D MERGE cervicaal (kleine FOV ruggemerg); eventueel thoracaal bij visualisatie van letsels
+,Evt. sag T1 en T1 +C (meestal niet; eventueel in overleg met radioloog)
+,
+Spondylodiscitis ,Sag STIR
+Opmerking:,Ax T2 (over pathologisch niveau)
+Indien enkel vraag dorsolumbaal--> MRI DLWK,Sag T1 FS
+Indien enkel vraag cervicodorsaal --> MRI CDWK,Sag T1 FS +C
+,Ax T1 FS +C (over pathologisch niveau)
+,
+Intraspinaal letsel ,Sag T2
+Indicaties: oppuntstelling LOKAAL letsel intraspinaal,Sag T1
+,Sag STIR
+,Ax T2 MERGE axiaal / axiale T2 FSE (T2 merge sensitiever)
+,Sag T1 +C
+,Ax T1 +C (op niveau van letsel)
+,
+Myelitis / intraspinale (drop)meta's,Sag T1 FS cdwz
+"Indicaties: vermoeden myelitis, vermoeden (drop)meta's intraspinaal",Sag T1 FS dlwz
+,Sag T2 FS cdwz
+,Sag T2 FS dlwz
+,Sag T1 FS cdwz +C
+,Sag T1 FS dlwz +C
+,Ax T1 FS +C cauda (L2-S1) / pathologisch niveau
+,
+MRA spinale vaten,Sag T1 cdwz
+"Indicaties: vermoeden durale AV-fistel, AV-malformatie",Sag T1 dlwz
+,Sag T2 cdwz
+,Sag T2 dlwz
+,Sag STIR cdwz
+,Sag STIR dlwz
+,Evt. Sag T1 +C (indien intramedullair oedeem of verdachte structuren)
+,
+Botletsel / botmeta wervelzuil ,Botmeta's (gericht op bepaald niveau):
+Opmerking: gericht op bepaald niveau; geen full-spine voor screening,Sag T1
+,Sag STIR (eventueel FLEX op Voyager)
+,Sag T1 FS +C
+,Evt. ax T1 FS +C  (indien metastasering met uitbreiding naar het spinaalkanaal)
+,
+,
+Wervelzuil - Liquorlek,Sag T2 FLEX (full spine; in twee keer scannen)
+Indicaties: opsporen liquorlek bij idiopathische intracraniële hypotensie,Evt. 3D T2 CUBE (indien visualisatie van epiduraal vocht)

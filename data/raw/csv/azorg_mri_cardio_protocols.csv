@@ -1,0 +1,109 @@
+Versie 4/7/2025,
+"Door: Lieven Van Hoe, Olivier Bladt, Philip Simons, Caroline Muylaert, Bruno De Potter en Mathieu Van Der Meersch",
+,
+Protocol + indicaties,Sequenties
+,
+,
+Viabiliteit,Gadolinium
+"Indicaties: viabiliteit, trombus, MINOCA",iDrive FIESTA
+,SA FIESTA cine (multislice)
+,4ch FIESTA cine (1 slice)
+,3ch FIESTA cine (1 slice)
+,2ch FIESTA cine (1 slice)
+,CineIR 2RR BH
+,SA SS PSMDE (multislice)
+,2ch SS PSMDE (1 slice)
+,4ch SS PSMDE (1 slice)
+,Evt. SS PSMDE met lange TI (550 ms); bij vraag naar trombus
+,
+,
+Acuut myocardinfarct,iDrive FIESTA
+,SA T2 mapping (3 slices)
+,Gadolinium + rustperfusie
+,SA SS PSMDE met TI van 550 ms (early-enhancement; voor MVO en uitsluiten trombus) 
+,SA FIESTA cine (multislice) 
+,4ch FIESTA cine (1 slice)
+,3ch FIESTA cine (1 slice)
+,2ch FIESTA cine (1 slice)
+,CineIR 2RR BH
+,SA SS PSMDE (multislice)
+,2ch SS PSMDE (1 slice)
+,4ch SS PSMDE (1 slice)
+,
+,
+Myocardziekten,iDrive FIESTA
+"Indicaties: cardiomyopathie, myocarditis, post-harttransplant, infiltratieve ziekten, athlete's heart, systeemziekten, extrasystolie",SA natieve T1 mapping (3 slices)
+,SA T2 mapping (3 slices)
+,Gadolinium 
+,SA FIESTA cine (multislice) 
+,4ch FIESTA cine (1 slice)
+,3ch FIESTA cine (1 slice)
+,2ch FIESTA cine (1 slice)
+,CineIR 2RR BH
+,SA SS PSMDE (multislice)
+,2ch SS PSMDE (1 slice)
+,4ch SS PSMDE (1 slice)
+,SA postcontrast T1 mapping (3 slices)
+,Evt. SA SS PSMDE (bij amyloidose)
+,Evt. 3ch FIESTA cine met hoge temporale resolutie (1 slice); bij vraag naar hypertrofe cardiomyopathie / SAM
+,
+ARVC,iDrive FIESTA
+"Indicaties: ARVC, ARVD, aritmogene cardiomyopathie",SA natieve T1 mapping (3 slices)
+,SA T2 mapping (3 slices)
+,Gadolinium 
+,SA FIESTA cine (multislice) 
+,3ch FIESTA cine (1 slice)
+,Ax FIESTA cine (2 mm gap)
+,RV long axis FIESTA cine (3 slices)
+,CineIR 2RR BH
+,SA SS PSMDE (multislice)
+,4ch SS PSMDE (1 slice)
+,SA postcontrast T1 mapping (3 slices)
+,
+,
+,
+Pericardziekten,iDrive FIESTA
+"Indicaties: pericarditis, constrictie",3ch SS T1 DIR (3 slices)
+,SA SS T2 TIR (multislice)
+,Gadolinium 
+,SA FIESTA cine (multislice) 
+,4ch FIESTA cine (1 slice)
+,3ch FIESTA cine (1 slice)
+,2ch FIESTA cine (1 slice)
+,CineIR 2RR BH
+,SA SS PSMDE (multislice)
+,4ch MDE FS (3 slices)
+,2ch MDE FS (3 slices)
+,Evt. SA FIESTA cine free breathing (multislice) bij vraag naar constrictie
+,
+Tumorale pathologie,iDrive FIESTA
+"Indicaties: oppuntstelling massa, tumor",SA FIESTA cine (multislice) 
+,4ch FIESTA cine (1 slice)
+,3ch FIESTA cine (1 slice)
+,2ch FIESTA cine (1 slice)
+,SA T1 BB BH
+,2ch T1 FS BB
+,SA T2 TIR
+,Gadolinium + perfusie
+,Ax LAVA Flex
+,SA SS EGE (multislice)
+,4ch SS EGE (1 slice)
+,CineIR 2RR BH
+,SA SS PSMDE (multislice)
+,4ch MDE FS (1 slice)
+,2ch MDE FS (1 slice)
+,Strikt ax T1 FS BB
+,
+Kleplijden,iDrive FIESTA
+,Aortaklep VENC PC (3 slices)
+,Pulmonaalklep VENC PC (3 slices)
+,Gadolinium
+,SA FIESTA cine (multislice)
+,4ch FIESTA cine (1 slice)
+,3ch FIESTA cine (1 slice)
+,2ch FIESTA cine (1 slice)
+,3ch FIESTA cine met hogere temporele resolutie (1 slice)
+,CineIR 2RR BH
+,SA SS PSMDE (multislice)
+,2ch SS PSMDE (1 slice)
+,4ch SS PSMDE (1 slice)
