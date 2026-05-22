@@ -5,7 +5,7 @@ from radai.rag import answer_question
 
 
 st.set_page_config(
-    page_title="AZORG RAD",
+    page_title="Azorg Rag",
     page_icon="🧠",
     layout="wide",
 )
@@ -20,7 +20,7 @@ def get_retriever():
     return retriever
 
 
-st.title("Radiology Knowledge Assistant")
+st.title("AZORG Chatbot")
 st.caption("Ask questions about your indexed radiology documents.")
 
 retriever = get_retriever()
