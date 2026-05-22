@@ -5,7 +5,7 @@ from radai.rag import answer_question
 
 
 st.set_page_config(
-    page_title="Radiology Knowledge Assistant",
+    page_title="AZORG RAD",
     page_icon="🧠",
     layout="wide",
 )
